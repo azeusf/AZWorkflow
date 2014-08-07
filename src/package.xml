@@ -171,10 +171,10 @@
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-????</members>
+        <members>ContentVersion-????</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Event-Event Layout</members>
-        <members>Global-Global Layout</members>
         <members>IT_Workflows__c-ISAS Server IT Approval</members>
         <members>IT_Workflows__c-ISAS Server User Request</members>
         <members>IT_Workflows__c-IT Workflows Layout</members>
@@ -199,6 +199,15 @@
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
         <members>User-User Layout</members>
+        <members>WorkCoaching-Coaching Layout</members>
+        <members>WorkFeedback-Feedback Layout</members>
+        <members>WorkFeedbackQuestion-Feedback Question Layout</members>
+        <members>WorkFeedbackQuestionSet-Feedback Question Set Layout</members>
+        <members>WorkFeedbackRequest-Feedback Request Layout</members>
+        <members>WorkGoal-Goal Layout</members>
+        <members>WorkGoalCollaborator-Goal Collaborator Layout</members>
+        <members>WorkGoalLink-Goal Link Layout</members>
+        <members>WorkPerformanceCycle-Performance Cycle Layout</members>
         <name>Layout</name>
     </types>
     <types>
