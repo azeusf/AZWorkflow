@@ -1,0 +1,3 @@
+<apex:page ShowHeader="false" renderas="pdf" action="{!URLFOR($Resource.workflowinstructions)}">
+
+</apex:page>
