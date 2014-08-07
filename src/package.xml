@@ -134,10 +134,6 @@
         <name>EmailTemplate</name>
     </types>
     <types>
-        <members>Case.Standard</members>
-        <name>EscalationRule</name>
-    </types>
-    <types>
         <members>*</members>
         <name>FlexiPage</name>
     </types>
@@ -158,7 +154,51 @@
         <name>HomePageLayout</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Account-Account %28Marketing%29 Layout</members>
+        <members>Account-Account %28Sales%29 Layout</members>
+        <members>Account-Account %28Support%29 Layout</members>
+        <members>Account-Account Layout</members>
+        <members>Asset-Asset Layout</members>
+        <members>Campaign-Campaign Layout</members>
+        <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>Case-Case %28Marketing%29 Layout</members>
+        <members>Case-Case %28Sales%29 Layout</members>
+        <members>Case-Case %28Support%29 Layout</members>
+        <members>Case-Case Layout</members>
+        <members>CaseClose-Close Case Layout</members>
+        <members>Contact-Contact %28Marketing%29 Layout</members>
+        <members>Contact-Contact %28Sales%29 Layout</members>
+        <members>Contact-Contact %28Support%29 Layout</members>
+        <members>Contact-Contact Layout</members>
+        <members>ContentVersion-????</members>
+        <members>Contract-Contract Layout</members>
+        <members>DandBCompany-D%26B Company Layout</members>
+        <members>Event-Event Layout</members>
+        <members>Global-Global Layout</members>
+        <members>IT_Workflows__c-ISAS Server IT Approval</members>
+        <members>IT_Workflows__c-ISAS Server User Request</members>
+        <members>IT_Workflows__c-IT Workflows Layout</members>
+        <members>IT_Workflows__c-Mobile Device Accident Form</members>
+        <members>IT_Workflows__c-SecureID IT Approval</members>
+        <members>IT_Workflows__c-SecureID User Request</members>
+        <members>Idea-Idea Layout</members>
+        <members>Lead-Lead %28Marketing%29 Layout</members>
+        <members>Lead-Lead %28Sales%29 Layout</members>
+        <members>Lead-Lead %28Support%29 Layout</members>
+        <members>Lead-Lead Layout</members>
+        <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
+        <members>Opportunity-Opportunity %28Sales%29 Layout</members>
+        <members>Opportunity-Opportunity %28Support%29 Layout</members>
+        <members>Opportunity-Opportunity Layout</members>
+        <members>OpportunityLineItem-Opportunity Product Layout</members>
+        <members>Order-Order Layout</members>
+        <members>OrderItem-Order Product Layout</members>
+        <members>Pricebook2-Price Book Layout</members>
+        <members>PricebookEntry-Price Book Entry Layout</members>
+        <members>Product2-Product Layout</members>
+        <members>Solution-Solution Layout</members>
+        <members>Task-Task Layout</members>
+        <members>User-User Layout</members>
         <name>Layout</name>
     </types>
     <types>
