@@ -169,7 +169,6 @@
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
-        <members>ContentVersion-一般情報</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Event-Event Layout</members>
@@ -267,10 +266,6 @@
     <types>
         <members>*</members>
         <name>Translations</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Settings</name>
     </types>
     <version>30.0</version>
 </Package>
