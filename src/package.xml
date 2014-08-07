@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
@@ -171,7 +171,7 @@
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-????</members>
-        <members>ContentVersion-????</members>
+        <members>ContentVersion-一般情報</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Event-Event Layout</members>
@@ -274,5 +274,5 @@
         <members>*</members>
         <name>Settings</name>
     </types>
-    <version>15.0</version>
+    <version>30.0</version>
 </Package>
