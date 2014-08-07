@@ -70,7 +70,6 @@
         <members>ContractContactRole</members>
         <members>DandBCompany</members>
         <members>Event</members>
-        <members>Idea</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Opportunity</members>
@@ -171,7 +170,7 @@
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-????</members>
-        <members>ContentVersion-一般情報</members>
+        <members>ContentVersion-????</members>
         <members>Contract-Contract Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Event-Event Layout</members>
