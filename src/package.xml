@@ -2,14 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>*</members>
-        <name>AccountCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>AccountOwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -33,11 +25,6 @@
         <name>ApprovalProcess</name>
     </types>
     <types>
-        <members>Case.Standard</members>
-        <members>Lead.Standard</members>
-        <name>AssignmentRule</name>
-    </types>
-    <types>
         <members>*</members>
         <name>AuthProvider</name>
     </types>
@@ -47,35 +34,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>CampaignCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CampaignOwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CaseCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>CaseOwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Community</name>
     </types>
     <types>
         <members>*</members>
         <name>ConnectedApp</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ContactCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ContactOwnerSharingRule</name>
     </types>
     <types>
         <members>*</members>
@@ -200,23 +163,7 @@
     </types>
     <types>
         <members>*</members>
-        <name>LeadCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LeadOwnerSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
         <name>Letterhead</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>OpportunityCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>OpportunityOwnerSharingRule</name>
     </types>
     <types>
         <members>*</members>
@@ -225,10 +172,6 @@
     <types>
         <members>*</members>
         <name>PostTemplate</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Profile</name>
     </types>
     <types>
         <members>*</members>
@@ -277,18 +220,6 @@
     <types>
         <members>*</members>
         <name>Translations</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>UserCriteriaBasedSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>UserMembershipSharingRule</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>Workflow</name>
     </types>
     <types>
         <members>*</members>
