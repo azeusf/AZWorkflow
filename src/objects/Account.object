@@ -301,6 +301,14 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>My_Custom_Field3__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>My Custom Field3</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>My_Custom_Field__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
