@@ -285,7 +285,6 @@
         <type>Picklist</type>
     </fields>
     <fields>
-<<<<<<< HEAD
         <fullName>My_Checkbox_Field__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
@@ -310,8 +309,6 @@
         <type>Checkbox</type>
     </fields>
     <fields>
-=======
->>>>>>> c3c8c59... account field
         <fullName>My_Custom_Field__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
