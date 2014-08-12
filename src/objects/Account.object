@@ -122,6 +122,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Custom_Field_PRJ2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Custom Field PRJ2</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
@@ -360,6 +368,14 @@
         <fullName>ParentId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Hierarchy</type>
+    </fields>
+    <fields>
+        <fullName>Prj_1_Custom_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Prj 1 Custom Field</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Prj_2_Custom_Field__c</fullName>
